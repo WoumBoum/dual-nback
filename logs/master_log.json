@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "example_timestamp",
+    "date": "example_date",
+    "highest_n_level": 3,
+    "final_n_level": 2,
+    "avg_position_accuracy": 0.75,
+    "avg_sound_accuracy": 0.65,
+    "position_dprime": 1.5,
+    "sound_dprime": 1.2,
+    "blocks": 5,
+    "trials_per_block": 20
+  }
+]
