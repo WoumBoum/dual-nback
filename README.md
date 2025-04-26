@@ -1,9 +1,9 @@
 # Dual N-Back Memory Training Game
 
 A Python implementation of the Dual N-Back cognitive training task that aims to improve working memory.
-![Dual N-Back Game](https://github.com/username/dual-nback/blob/main/screenshots/menu.png)
+![Dual N-Back Game](https://github.com/WoumBoum/dual-nback/blob/main/screenshots/menu.png)
 
-![Dual N-Back Game](https://github.com/username/dual-nback/blob/main/screenshots/gameplay.png)
+![Dual N-Back Game](https://github.com/WoumBoum/dual-nback/blob/main/screenshots/gameplay.png)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Dual N-Back is a challenging cognitive task that requires simultaneously trackin
 - Customizable session length:
   - Adjustable number of trials per block (5-50)
   - Adjustable number of blocks per session (1-30)
-  ![Dual N-Back Game](https://github.com/username/dual-nback/blob/main/screenshots/settings.png)
+  ![Dual N-Back Game](https://github.com/WoumBoum/dual-nback/blob/main/screenshots/settings.png)
 - Performance graphs:
   - Accuracy trends for position and letter matching
   - D-prime statistics tracking
@@ -33,7 +33,7 @@ Dual N-Back is a challenging cognitive task that requires simultaneously trackin
   - Day-based data grouping for consistent time intervals
   - Moving average trend lines showing long-term progress
   - Multi-page history view with navigation controls
-  ![Dual N-Back Game](https://github.com/username/dual-nback/blob/main/screenshots/training_history_exemple.png)
+  ![Dual N-Back Game](https://github.com/WoumBoum/dual-nback/blob/main/screenshots/training_history_exemple.png)
 
 - User data saved between sessions
 - Resizable window for different screen sizes
